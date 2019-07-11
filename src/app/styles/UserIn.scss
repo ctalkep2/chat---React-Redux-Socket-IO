@@ -1,0 +1,49 @@
+label, .messCrAcc {
+	display: inline-block;
+	width: 100%;
+}
+.crAccWarp button {
+	margin: 0 5px; 
+}
+.crAccWarp {
+	width: max-content;
+	margin: 0 auto;
+}
+.userIn-wrapp {
+	position: absolute;
+	bottom: 0;
+}
+.userIn-wrapp, .login, .signIn, .password {
+	width: inherit;
+}
+.userSignIn, .userLogin {
+	margin-bottom: 10px;
+}
+.login, .signIn, .password {
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+}
+.login-wrapp, .signIn-wrapp {
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+}
+.spanInput {
+	padding: 3px 0;
+}
+.userLogin, .userSignIn {
+	margin-left: 10px;
+}
+.button-login, .button-signIn {
+	margin: 0 auto;
+	min-width: 100px;
+}
+.button-wrap {
+	display: flex;
+	margin-top: 10px;
+}
+.messCrAcc {
+	padding-top: 15px;
+	text-align: center;
+}

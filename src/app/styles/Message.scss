@@ -1,0 +1,7 @@
+.message {
+	padding: 3px 20px;
+}
+.message:nth-child(odd) {
+	border: none;
+	background-color: #ddd;
+}

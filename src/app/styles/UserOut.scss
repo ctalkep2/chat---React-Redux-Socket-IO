@@ -1,0 +1,25 @@
+label {
+	display: inline-block;
+	width: 100%;
+}
+.logoutLabel {
+	text-align: center;
+	padding: 5px 0;
+}
+.userOut-wrapp {
+	position: absolute;
+	bottom: 0;	
+}
+.userOut-wrapp, .logout {
+	width: inherit;
+}
+.logout {
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+	margin-bottom: 10px;
+}
+.button-logout {
+	margin: 0 auto;
+	min-width: 100px;
+}
