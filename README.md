@@ -1,2 +1,2 @@
-# chat---React-Redux-Socket-IO
-Working chat http://a0306320.xsph.ru/
+Chat realized on React/Redux - frontend, and Node.js/MongoDB - backend.
+At this moment, mongoDB in development.
