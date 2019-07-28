@@ -1,2 +1,2 @@
 Chat realized on React/Redux - frontend, and Node.js/MongoDB - backend.
-At this moment, mongoDB in development.
+In this moment, work with mongoDB in development.
